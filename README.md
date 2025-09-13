@@ -1,9 +1,3 @@
-
----
-
-# ✅ Репозиторий `twin-france` (стиль «обзор/guide»)
-
-```markdown
 # 🇫🇷 Avis & Guide — Twin Casino France (2025)
 
 **SEO :** avis Twin Casino France, guide Twin, bonus Twin, miroir Twin, casino en ligne  
